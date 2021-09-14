@@ -8,3 +8,14 @@
  - 💭 Eva is not my name as some people may think, "evamoer" is just an anagram of my surname (Ermoeva)
  - 🤍 IT-community is new for me, so I’m shy here but always open to make friends and create new acquaintances.
  - 📩 You can email me: **evamoer@gmail.com** or text me via telegram: **@evamoer**
+
+### Technologies ⚙️
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### Statistics 📊
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=evamoer&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evamoer&hide=TeX&layout=compact)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=evamoer.evamoer)
