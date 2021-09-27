@@ -1,5 +1,5 @@
 ### Hello, world👋
-<img src="https://im7.ezgif.com/tmp/ezgif-7-fb2a86c62750.giff" align="right" width="250px">
+<img src="https://im7.ezgif.com/tmp/ezgif-7-fb2a86c62750.gif" align="right" width="250px">
 
  - 👻 You can call me Irina
  - ⌨️ Beginner web-developer
