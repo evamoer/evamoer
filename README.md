@@ -4,7 +4,7 @@
  - 👻 You can call me Irina
  - ⌨️ Beginner web-developer
  - 📓 Right now I’m learning at "Web-developer" course made by [Y.Praktikum](https://practicum.yandex.ru/) with mentoring and support from great developers team. 
- - 🔧 My last study project was ["Mesto"](https://evamoer.github.io/mesto/), made completely with vanilla js. Next step is to re-make it, using React: ["Mesto-React"](https://evamoer.github.io/mesto-react/) - you could already see some progress here. Also, I do some small things apart from curriculum program, for ex.: [tic-tac-toe](https://evamoer.github.io/tic-tac-toe/index.html), [rock-paper-scissors](https://evamoer.github.io/rock-paper-scissors/index.html), [digital clock](https://evamoer.github.io/digital-clock/index.html). 
+ - 🔧 My last study project was ["Mesto"](https://evamoer.github.io/mesto/), made completely with vanilla js. Next step is to re-make it, using React: ["Mesto-React"](https://github.com/evamoer/mesto-react) - you could already see some progress here. Also, I do some small things apart from curriculum program, for ex.: [tic-tac-toe](https://evamoer.github.io/tic-tac-toe/index.html), [rock-paper-scissors](https://evamoer.github.io/rock-paper-scissors/index.html), [digital clock](https://evamoer.github.io/digital-clock/index.html). 
  - 💭 Eva is not my name as some people may think, "evamoer" is just an anagram of my surname.
  - 🤍 IT-community is new for me, so I’m shy here but always open to create new acquaintances and make friends.
  - 📩 You can email me: **evamoer@gmail.com** or text me via telegram: **@evamoer**
