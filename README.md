@@ -2,8 +2,9 @@
 <img src="https://i.pinimg.com/originals/a8/16/84/a816844695fa49287a0d3460378669f6.gif" align="right" width="280px">
 
  - Call me Irina 👩‍💻 "evamoer" is just an anagram of my surname.
- - Right now I’m at the final step of the "Web-developer" course from [Y.Praktikum](https://practicum.yandex.ru/) and working on my diploma project "Movies-Explorer" with mentoring and code-reviewing from great developers team.
- - Visit my project's repos: ["Mesto-VanillaJS"](https://evamoer.github.io/mesto/), ["Mesto-React-Authorization"](https://github.com/evamoer/react-mesto-auth) and ["Mesto-React-Api-Full"](https://github.com/evamoer/react-mesto-api-full). It was a long jorney from vanilla JS and React to fully deployed project with complete frontend (React) and backend (NodeJS, MongoDB) parts. Demo links and additional info are available in repos' READmes.
+ - Now working at: Bell Integrator. Position: Frontend-developer. 
+ - Graduated from Yandex.Praktikum "Web-developer" course.
+ - Continue to improve my knowledge at the Hexlet platform and over Codewars' tasks.
  - For new acquaintances and communication you can contact me via email **evamoer@gmail.com** and via telegram **@evamoer**
 
 ### Technologies
@@ -16,7 +17,6 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
