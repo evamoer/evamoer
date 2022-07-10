@@ -1,8 +1,7 @@
 ### Hello, world👋
-<img src="https://i.pinimg.com/originals/a8/16/84/a816844695fa49287a0d3460378669f6.gif" align="right" width="100px">
+<img src="https://i.pinimg.com/originals/a8/16/84/a816844695fa49287a0d3460378669f6.gif" align="right" width="200">
 
  - Call me Irina 👩‍💻 "evamoer" is just an anagram of my surname.
- - My position at work: Frontend Developer
  - For new acquaintances and communication you can contact me via email **evamoer@gmail.com** or telegram **@evamoer**
 
 ### Technologies
