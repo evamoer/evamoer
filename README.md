@@ -1,11 +1,9 @@
 ### Hello, world👋
-<img src="https://i.pinimg.com/originals/a8/16/84/a816844695fa49287a0d3460378669f6.gif" align="right" width="280px">
+<img src="https://i.pinimg.com/originals/a8/16/84/a816844695fa49287a0d3460378669f6.gif" align="right" width="100px">
 
  - Call me Irina 👩‍💻 "evamoer" is just an anagram of my surname.
- - Now working at: Bell Integrator. Position: Frontend-developer. 
- - Graduated from Yandex.Praktikum "Web-developer" course.
- - Continue to improve my knowledge at the Hexlet platform and over Codewars' tasks.
- - For new acquaintances and communication you can contact me via email **evamoer@gmail.com** and via telegram **@evamoer**
+ - My position at work: Frontend Developer
+ - For new acquaintances and communication you can contact me via email **evamoer@gmail.com** or telegram **@evamoer**
 
 ### Technologies
 
